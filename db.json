@@ -258,5 +258,15 @@
 		"BackupStatus": "Failed",
 		"BackedUp": "About 12 hour ago",
 		"BackupSize": "52 MB"
+	},
+	    {
+		"SiteName": "XYZ Inc",
+		"EC_Sitename": "Acme o365 backup",
+		"Connector": "o365",
+		"ProtectedUsers": 112,
+		"Retention": 2,
+		"BackupStatus": "Failed",
+		"BackedUp": "About 12 hour ago",
+		"BackupSize": "52 MB"
 	}]
 }
