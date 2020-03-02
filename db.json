@@ -2,7 +2,7 @@
 	"d":[{
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -22,7 +22,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -42,27 +42,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
-		"ProtectedUsers": 20,
-		"Retention": 5,
-		"BackupStatus": "Success",
-		"BackedUp": "About 5 hour ago",
-		"BackupSize": "9.3 MB"
-	},
-	{
-		"SiteName": "Acme Inc",
-		"EC_Sitename": "Acme o365 backup",
-		"Connector": "GSuite",
-		"ProtectedUsers": 112,
-		"Retention": 2,
-		"BackupStatus": "Failed",
-		"BackedUp": "About 12 hour ago",
-		"BackupSize": "52 MB"
-	},
-	    {
-		"SiteName": "Boston PM Setup",
-		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "GSuite",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -102,7 +82,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "GSuite",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -122,7 +102,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -142,7 +122,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -162,7 +142,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -182,7 +162,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -202,7 +182,7 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -222,7 +202,27 @@
 	    {
 		"SiteName": "Boston PM Setup",
 		"EC_Sitename": "Boston Saas Demo",
-		"Connector": "o365",
+		"Connector": "Office 365",
+		"ProtectedUsers": 20,
+		"Retention": 5,
+		"BackupStatus": "Success",
+		"BackedUp": "About 5 hour ago",
+		"BackupSize": "9.3 MB"
+	},
+	{
+		"SiteName": "Acme Inc",
+		"EC_Sitename": "Acme o365 backup",
+		"Connector": "GSuite",
+		"ProtectedUsers": 112,
+		"Retention": 2,
+		"BackupStatus": "Failed",
+		"BackedUp": "About 12 hour ago",
+		"BackupSize": "52 MB"
+	},
+	    {
+		"SiteName": "Boston PM Setup",
+		"EC_Sitename": "Boston Saas Demo",
+		"Connector": "Office 365",
 		"ProtectedUsers": 20,
 		"Retention": 5,
 		"BackupStatus": "Success",
@@ -242,7 +242,7 @@
 	    {
 		"SiteName": "ABC Inc",
 		"EC_Sitename": "Acme o365 backup",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 112,
 		"Retention": 2,
 		"BackupStatus": "Failed",
@@ -262,7 +262,7 @@
 	    {
 		"SiteName": "XYZ Inc",
 		"EC_Sitename": "Acme o365 backup",
-		"Connector": "o365",
+		"Connector": "Office 365",
 		"ProtectedUsers": 112,
 		"Retention": 2,
 		"BackupStatus": "Failed",
