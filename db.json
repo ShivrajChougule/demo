@@ -39,7 +39,7 @@
                 "lastBackupStatus": "Success",
                 "lastBackup": "Fri Jan 07 05:25PM",
                 "backupLocation": "Acronis Data Cloud",
-                "recoveryPoint": "7",
+                "recoveryPoint": "-",
                 "protectedData": "23 GB",
                 "agentVersion": "12.1"
 	},
